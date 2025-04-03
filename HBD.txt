@@ -1,6 +1,5 @@
 
 
-
 <html>
 <meta charset='UTF-8'/>
 <meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/>
@@ -21,7 +20,7 @@
 <!-- 
   Made with love by Rayys!
   
-     Blog: Bang-BiL
+     Blog: feeldream.id
      Instagram: @rayyarrr
      TikTok: @feelthisray
      Email: rayyar73@gmail.com
@@ -156,7 +155,7 @@ blockquote p:not(#kalimat, #teksnim){display:none;}
 </b></p>
 
 <p><b><img src="https://feeldreams.github.io/g5.gif"/><br>
-	<span class="ft">Selamat Ulang Tahun! 🥳</span>
+	<span class="ft">Selamat Ulang Tahun yg Ke-20! 🥳</span>
 </b></p>
 
 <p><b><img src="https://feeldreams.github.io/mndkat.gif"/><br>
