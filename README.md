@@ -332,7 +332,7 @@ function multifungsi(){
     if(prtanya){
        await swals.fire({
          title: 'Tapi Boong! 🤣', 
-         html: 'aku bingung mau kasih kado apa ke kamu, takutnya km ga suka sm kado yg aku kasih<br>jadi km bilang yaa mau kado apa dari aku😜❤️', 
+         html: 'Nanti aku mau ngasih kamu sesuatu, bukan sesuatu yg spesial tapi semoga kamu suka😜❤️', 
          imageUrl: '' + fotostikerPopupCon.src,
        });
        poinjwb=1;
