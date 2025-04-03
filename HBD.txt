@@ -160,7 +160,7 @@ blockquote p:not(#kalimat, #teksnim){display:none;}
 </b></p>
 
 <p><b><img src="https://feeldreams.github.io/mndkat.gif"/><br>
-	<span>Panjang Umur dan<br>Sehat Selalu yaa 🥰<br>Semoga usiamu semakin berarti dan penuh dengan keberhasilan</span>
+	<span>Panjang Umur dan<br>Sehat Selalu yaa 🥰</span>
 </b></p>
 
      </div></div>
@@ -332,7 +332,7 @@ function multifungsi(){
     if(prtanya){
        await swals.fire({
          title: 'Tapi Boong! 🤣', 
-         html: 'aku bingung mau kasih kado apa ke kamu, takutnya km ga suka sm kado yg aku kasih<br>jadi km bilang yaa mau kado apa dari aku😜❤️', 
+         html: 'Nanti aku mau ngasih kamu sesuatu, bukan sesuatu yg spesial tapi semoga kamu suka😜❤️', 
          imageUrl: '' + fotostikerPopupCon.src,
        });
        poinjwb=1;
